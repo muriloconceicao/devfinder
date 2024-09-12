@@ -12,11 +12,11 @@ export const lightTheme = {
 export const darkTheme = {
   dark: true,
   colors: {
-    primary: '#bb86fc',
-    secondary: '#03dac4',
-    background: '#121212',
-    text: '#ffffff',
-    border: '#333333',
+    primary: '#000000',
+    secondary: '#000000',
+    background: '#000000',
+    text: '#000000',
+    border: '#000000',
   },
 };
 
